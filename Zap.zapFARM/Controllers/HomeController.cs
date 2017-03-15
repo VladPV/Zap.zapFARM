@@ -13,17 +13,38 @@ namespace Zap.zapFARM.Controllers
             return View();
         }
 
-        public IActionResult About()
+        public IActionResult Users()
         {
-            ViewData["Message"] = "Your application description page.";
-
             return View();
         }
 
-        public IActionResult Contact()
+        public IActionResult Groups()
         {
-            ViewData["Message"] = "Your contact page.";
+            return View();
+        }
 
+        public IActionResult Devices()
+        {
+            return View();
+        }
+
+        public IActionResult Proxy()
+        {
+            return View();
+        }
+
+        public IActionResult Tools()
+        {
+            return View();
+        }
+
+        public IActionResult Certificates()
+        {
+            return View();
+        }
+
+        public IActionResult Licenses()
+        {
             return View();
         }
 

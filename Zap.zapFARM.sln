@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zap.zapFARM", "Zap.zapFARM\Zap.zapFARM.csproj", "{F2A439F9-93B2-4673-A7EA-2F8E9864D6B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zap.zapFARM.Data", "Zap.zapFARM.Data\Zap.zapFARM.Data.csproj", "{B744D860-D891-4F8F-BFE0-22E313F9BEC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F2A439F9-93B2-4673-A7EA-2F8E9864D6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2A439F9-93B2-4673-A7EA-2F8E9864D6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2A439F9-93B2-4673-A7EA-2F8E9864D6B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B744D860-D891-4F8F-BFE0-22E313F9BEC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B744D860-D891-4F8F-BFE0-22E313F9BEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B744D860-D891-4F8F-BFE0-22E313F9BEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B744D860-D891-4F8F-BFE0-22E313F9BEC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
